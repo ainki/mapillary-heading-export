@@ -1,0 +1,25 @@
+{
+    "MAPDeviceMake": "GoPro", 
+    "MAPOrientation": 1, 
+    "MAPAltitude": 91.754, 
+    "MAPSettingsUserKey": "DAgCJOkq2uAy6onbHLuWIg", 
+    "MAPPhotoUUID": "94b9cae3-a69b-452c-96ac-ba5bef41727f", 
+    "MAPDeviceModel": "GoPro Max", 
+    "MAPCompassHeading": {
+        "TrueHeading": 235.7817610354828, 
+        "MagneticHeading": 235.7817610354828
+    }, 
+    "MAPMetaTags": {
+        "strings": [
+            {
+                "key": "mapillary_tools_version", 
+                "value": "0.5.0"
+            }
+        ]
+    }, 
+    "MAPSettingsUsername": "ainki", 
+    "MAPCaptureTime": "2021_01_13_16_11_32_000", 
+    "MAPLatitude": 54.5682017, 
+    "MAPSequenceUUID": "db413f21-21f9-4f3d-8d82-824624556cfe", 
+    "MAPLongitude": 23.385831199972223
+}

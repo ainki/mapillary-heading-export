@@ -1,0 +1,10 @@
+{
+    "MAPCompassHeading": {
+        "TrueHeading": 0.0, 
+        "MagneticHeading": 0.0
+    }, 
+    "MAPLatitude": 54.5682204, 
+    "MAPAltitude": 91.586, 
+    "MAPLongitude": 23.385868299972223, 
+    "MAPCaptureTime": "2021_01_13_16_11_30_000"
+}
